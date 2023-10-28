@@ -1,0 +1,1 @@
+- search about logaritms on khan academy(khanacademy.org)
