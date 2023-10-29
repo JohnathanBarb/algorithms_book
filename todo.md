@@ -1,1 +1,2 @@
-- search about logaritms on khan academy(khanacademy.org)
+- search about logaritms on khan academy(khanacademy.org);
+- search about bellman-ford algorithm;
